@@ -1,1 +1,1 @@
-# n-Blocks Studio Ticker Node #
+# n-Blocks Studio TickerA  Arduino UNO only Node EXPERIMENTAL #

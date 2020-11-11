@@ -1,0 +1,29 @@
+{
+    "category": "Function",
+    "name": "TickerA",
+    "inputs": 0,
+    "outputs": 1,
+    "parameters": [
+        {
+            "name": "Interval (ms)",
+            "type": "int",
+            "default": 1000,
+            "options": [
+                ""
+            ],
+            "value": 1000
+        }
+    ],
+    "labels": {
+        "input": [],
+        "output": []
+    },
+    "schematic_pins": {
+        "inputs": [],
+        "outputs": [
+            1
+        ]
+    },
+    "repository": "https://github.com/nBlocksStudioNodes/nblocks_tickera",
+    "revision": ""
+}
